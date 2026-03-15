@@ -1,0 +1,1 @@
+분산형 key-value store
